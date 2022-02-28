@@ -1,0 +1,2 @@
+# co-quyen
+dieu khien
